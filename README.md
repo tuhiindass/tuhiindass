@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 
-[![Medium](https://img.shields.io/badge/facebook-skyblue.svg?style=for-the-badge&logo=facebook)](https://facebook.com/iamdeepakmandal)
+[![Facebook](https://img.shields.io/badge/facebook-skyblue.svg?style=for-the-badge&logo=facebook)](https://facebook.com/iamdeepakmandal)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmandal1/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/iamdeepakmandal/)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/iamdeepakmandal/)
