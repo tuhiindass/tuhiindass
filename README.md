@@ -47,4 +47,4 @@ Here are some ideas to get you started:
   
   <br />  <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
-<p align="center"> For more Info. Visit at : <a href="www.deepakmandal.in" style="text-decoration:none;"target="_blank"><span style="color: white;">Click here !!!</span></a>
+<p align="center"> For more Info. Visit at : <a href="https://deepakmandal.in" style="text-decoration:none;"target="_blank"><span style="color: white;">Click here !!!</span></a>
