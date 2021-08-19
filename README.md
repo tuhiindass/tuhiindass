@@ -8,7 +8,7 @@
 ## _Hi there!_&nbsp;<img src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Mario_Hello_Big.gif" width="25px">
 
 _I build things for the **web**. <img alt="Globe Emoji" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/GlobeEmoji.png" width="18px">_  
-_Just a budding **Full Stack Developer** <img alt="Technologist Emoji" title="Deepak Kumar Mandal" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Developer.gif" width="75px"> who is **obsessed** with the idea of **improving** himself.&nbsp; <img alt="Rocket Emoji" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/RocketEmoji.png" width="22px">_
+_Just a budding **Full Stack Developer** <a href="https://deepakmandal.in" target="_blank"><img alt="Technologist Emoji" title="Deepak Kumar Mandal" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Developer.gif" width="75px"> </a>who is **obsessed** with the idea of **improving** himself.&nbsp; <img alt="Rocket Emoji" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/RocketEmoji.png" width="22px">_
 
 <br />
 
