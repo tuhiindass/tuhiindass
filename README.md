@@ -16,7 +16,7 @@ _Just a budding **Full Stack Developer** <a href="https://deepakmandal.in" targe
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/HackerRank.png" title="Hackerrank" alt="dmandal1" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/HackerEarth.png" title="Hackerearth" alt="dmandal1" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/GFG.png" title="GeeksForGeeks" alt="dmandal1" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/dmandal/" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/GFG.png" title="GeeksForGeeks" alt="dmandal1" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/codechef.png" title="Codechef" alt="dmandal1" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/code-forces.png" title="Code-Forces" alt="dmandal1" height="30" width="40" /></a>
 </p>
