@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://github.com/dmandal1)
+[![MasterHead](https://github.com/dmandal1/dmandal1/blob/main/Assests/Cover/cover.jpeg)](https://github.com/dmandal1)
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar Mandal</h1>
 
