@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/dmandal1/dmandal1/blob/main/Assests/Cover/cover.jpg)](https://github.com/dmandal1)
+[![MasterHead](https://github.com/dmandal1/dmandal1/blob/main/Assests/Cover/cover.jpg)](https://github.com/tuhiindass)
 
-<h1 align="center">Hi 👋, I'm Deepak Kumar Mandal</h1>
+<h1 align="center">Hi 👋, I'm Tuhin Das</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmandal1&label=Profile%20views&color=0e75b6&style=flat" alt="dmandal1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmandal1&label=Profile%20views&color=0e75b6&style=flat" alt="tuhiindass" /> </p>
 <img src="https://camo.githubusercontent.com/d3e809f523f13c60007f918a892a63e69ba4feeca642c0140c8847ed832b3b34/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" align="right" alt="Coding" width="400" style="border: 2px solid red"; />
 
 ## _Hi there!_&nbsp;<img src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Mario_Hello_Big.gif" width="25px">
@@ -14,9 +14,9 @@ _Just a budding **Full Stack Developer** <a href="https://deepakmandal.in" targe
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/dmandal1" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/HackerRank.png" title="Hackerrank" alt="dmandal1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tuhiindass" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/HackerRank.png" title="Hackerrank" alt="dmandal1" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/HackerEarth.png" title="Hackerearth" alt="dmandal1" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/dmandal/" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/GFG.png" title="GeeksForGeeks" alt="dmandal1" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/tuhiindass/" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/GFG.png" title="GeeksForGeeks" alt="dmandal1" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/codechef.png" title="Codechef" alt="dmandal1" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Coding/code-forces.png" title="Code-Forces" alt="dmandal1" height="30" width="40" /></a>
 </p>
@@ -33,18 +33,18 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 
-[![Facebook](https://img.shields.io/badge/facebook-skyblue.svg?style=for-the-badge&logo=facebook)](https://facebook.com/iamdeepakmandal)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmandal1/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/iamdeepakmandal/)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/iamdeepakmandal/)
+[![Facebook](https://img.shields.io/badge/facebook-skyblue.svg?style=for-the-badge&logo=facebook)](https://facebook.com/tuhiindass)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuhiindass/)
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/dasrj16/)
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/tuhiindasss/)
 
 <p>
-<a href="https://github.com/dmandal1">
-<img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=dmandal1&show_icons=true&theme=dracula&line_height=27" alt="Deepak's github stats"/>
+<a href="https://github.com/tuhiindass">
+<img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=tuhiindass&show_icons=true&theme=dracula&line_height=27" alt="Tuhin das's github stats"/>
 </a>
   
   </p>
   
   <br />  <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
-<p align="center"> For more Info. Visit at : <a href="https://deepakmandal.in" target="_blank"><span style="color: white;">Click here !!!</span></a>
+<p align="center"> For more Info. Visit at : <a href="#" target="_blank"><span style="color: white;">Click here !!!</span></a>
