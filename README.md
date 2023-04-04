@@ -23,7 +23,7 @@ _Just a budding **Full Stack Developer** <a href="https://deepakmandal.in" targe
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Reactjs & Nodejs.
+- 🔭 I’m currently working on Spring boot, micronaut & Nodejs.
 - 🌱 I’m currently learning frontend frameworks like react , vue and express js.
 - 👯 I’m looking to collaborate on tech startups.
 - 💬 Ask me about any difficuly you are facing in projects that include technology like node , react , databases and much more in web development.
